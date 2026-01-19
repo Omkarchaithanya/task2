@@ -1,0 +1,10 @@
+Category Performance:
+“Toys generated the highest revenue (₹XX,XXX), accounting for ~30% of total sales, followed by Home & Kitchen and Beauty.”
+Payment Preference:
+“Net Banking was the most popular payment method overall, used in 35% of transactions, especially for high-value Home & Kitchen items.”
+Discount Impact:
+“Products with 50% discount (e.g., in Books and Toys) showed significantly higher sales volume, suggesting deep discounts drive purchase decisions.”
+Monthly Trends:
+“August and September 2024 saw the highest sales, likely influenced by festive season shopping behavior.”
+Price vs. Final Price:
+“The average discount across all categories was 22%, with Beauty and Electronics offering the steepest average discounts (28% and 25% respectively).”
